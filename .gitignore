@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+venv/
+.env
+
+# Python tools
+*.mypy_cache/
+*.pytest_cache/
+*.coverage
+.coverage.*
+
+# VSCode settings
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

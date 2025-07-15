@@ -37,7 +37,7 @@ This project is a FastAPI-based Python application designed to process and analy
 - [Docker Compose](https://docs.docker.com/compose/)
 
 #### 🔧 Build & Run (in background):
-Navigate to `llm-data` directory and run.
+Navigate to `llm-data` directory and run commands as it is the root directory of the SW components of this project. 
 ```
 docker-compose up --build -d
 
